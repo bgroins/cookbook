@@ -8,7 +8,7 @@ In this recipe, we will generate a Let's Encypt certificate using Concert. This 
 
 ## 1. Prerequisites
 
-* Install Minio Server from [here](https://docs.minio.io/docs/minio).
+* Install Minio Server from [here](https://docs.minio.io/docs/minio-quickstart-guide).
 * Install Golang from [here](https://docs.minio.io/docs/how-to-install-golang).
 
 ## 2. Dependencies
